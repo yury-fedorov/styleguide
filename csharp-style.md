@@ -240,8 +240,6 @@ int SomeProperty => _someProperty
 ```
 
 *   Judiciously use expression body syntax in lambdas and properties.
-*   Don’t use on method definitions. This will be reviewed when C# 7 is live,
-    which uses this syntax heavily.
 *   As with methods and other scoped blocks of code, align the closing with the
     first character of the line that includes the opening brace. See sample code
     for examples.
